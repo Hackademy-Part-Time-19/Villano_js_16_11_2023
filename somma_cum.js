@@ -1,6 +1,6 @@
 let total=0
 
-for(let i=0;i<200;i++){
+for(let i=0;i<=200;i++){
 
     total+=i
 }
